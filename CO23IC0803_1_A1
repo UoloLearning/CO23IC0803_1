@@ -1,8 +1,10 @@
 public class DisplayTextFiveTimes {
     public static void main(String[] args) {
         String textToDisplay = "Hello, world!";
-        for (int i = 0; i < 5; i++) {
+        int i = 0; 
+        while (i < 5 ) {
         System.out.println(textToDisplay);
+        i++
         }
     }
 }
