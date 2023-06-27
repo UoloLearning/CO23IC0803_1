@@ -1,4 +1,4 @@
-public class 1to5Nums {
+public class PrintNums {
     public static void main(String[] args) {
         int number = 1;
         while (number <= 5) {
